@@ -37,3 +37,7 @@ reshaped before the analysis.
 ## Notes
 This is an exploratory analysis. The trend line summarises an association and does not
 establish a causal relationship.
+
+## Files
+- `projectscript.R`: the full script
+- `political_stability_and_food_insecurity.pdf`: the full report
